@@ -86,9 +86,9 @@ To place an order we will use the application.
 <div id='status'>
 <h2>Status</h2>
 <p>
-    <img align="left" height="100em" alt="Jim Carrey"
+    <img align="center" height="100em" alt="Jim Carrey"
       src="https://user-images.githubusercontent.com/101602651/203405592-5045955d-4107-4e6d-ba53-734873fdeb45.gif"> -->
-    <div align="left">
+    <div align="center">
       <br/>
       <i>This is a Mobile Project and is still under construction!</i>
     </div>
