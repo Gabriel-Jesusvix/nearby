@@ -21,6 +21,7 @@ export const s = StyleSheet.create({
   },
   containerSelected: {
     backgroundColor: colors.green.base,
+    borderColor: colors.green.base,
     borderWidth: 0,
   },
   nameSelected: {
