@@ -1,3 +1,4 @@
+import { Categories, CategoriesProps } from "@/components/categories";
 import { api } from "@/services/api";
 import { useEffect, useState } from "react";
 import { Alert, Text, View } from "react-native";
@@ -40,11 +41,15 @@ export default function Home(){
   useEffect(() => {
     fetchMarkets()
   }, [category])
-  
+
 
   return (
     <View style={{ flex: 1, backgroundColor: "#CECECE" }}>
-      <Text>Home</Text>
+      <Categories
+        data={categories}
+        onSelect={setCategory}
+        selected={category}
+      />
     </View>
   )
 }
