@@ -7,38 +7,35 @@
 
 <div id='introducao'>
 
-O **NEARBYAPP** O projeto é um aplicativo mobile de clube de benéficios com cupons para utilizar em estabelecimentos
-próximos a você.
-
-Futuramente irei acrescentar novas funcionalidades que você pode conferir no [Roadmap](#roadmap).
+The **NEARBYAPP** The project is a mobile app for a benefits club with coupons to use at establishments near you. In the future I will add new features that you can check out on[Roadmap](#roadmap).
 </div>
 
 ## Tópicos
 
-* [Introdução](#introducao)
-* [Instalar e rodar o projeto localmente](#instalacao)
-* [Stack utilizada](#stack_utilizada)
-* [Demonstração](#demonstração)
+* [Introduction](#introducao)
+* [Install and run project local](#instalacao)
+* [Stack used](#stack_utilizada)
+* [Demo](#demonstração)
 * [Roadmap](#roadmap)
-* [Aprendizados](#aprendizados)
+* [Learnings](#aprendizados)
 * [Status](#status)
-* [Contatos](#contatos)
+* [Contact-me](#contatos)
 
 <div id='instalacao'>
 
 ## Instalando e rodando o projeto localmente:
 
-Para rodar o NEARBY**APP** em sua máquina é bem simples.
+To run the NEARBY**APP** on your machine is very simple.
 
-Você precisa ter instalado:
+You need to have installed:
 
 - Node.js LTS v16
-- Expo para celular ou o Emulador do Android ou IOS.
+- Expo for mobile or Android or IOS Emulator.
 
-Para a instalação dos pacotes você deve rodar o comando `yarn install` ou `npm install`
+To install the packages you must run the command `yarn install` ou `npm install`
 
 <div id='stack_utilizada'>
-<h2>Stack utilizada</h2>
+<h2>Stack Used</h2>
 
 * **Front-end:** React-Native, Axios, Expo e Typescript e Google Maps
 
@@ -46,22 +43,22 @@ Para a instalação dos pacotes você deve rodar o comando `yarn install` ou `np
 
 </div>
 <div id='demonstração'>
-<h2>Demonstração</h2>
+<h2>Demo</h2>
 
-Para fazer um pedido iremos utilizar o aplicativo.
+To place an order we will use the application.
 
-1. Na tela inicial você poderá ver a lista de estabelecimentos próximos e verificar seus cupons
+1. On the home screen you can see the list of nearby establishments and check your coupons
 <p align="center">
   <img height="550" width="250" src="https://github.com/user-attachments/assets/218e0d13-a4b6-467c-a3c6-4fedd0702c5d"/>  
 </p>
 
-2. Logo em seguida você poderá escolher o estabelecimento
+2. Then you can choose the establishment near you based on the device's location.
 
 <p align="center">
   <img height="550" width="250" src="https://github.com/user-attachments/assets/e464dc9c-96be-4b03-855f-d4ebd10eb06b"/>  
 </p>
 
-3. Após clicar no `Estabelecimento` desejado, vocÊ poderá ler um qrCode disponibilizado para garantir a oferta, ou saber a localização exata no mapa
+3. After clicking on the desired `Establishment`, you can read a QRCode provided to guarantee the offer, or find the exact location on the map.
 
 <p align="center">
   <img height="550" width="250" src="https://github.com/user-attachments/assets/ebe0a53e-9cd8-4fcc-a369-df30112833b0"/>  
@@ -72,26 +69,28 @@ Para fazer um pedido iremos utilizar o aplicativo.
 </div>
 
 <div id='aprendizados'>
-<h2>Aprendizados</h2>
+<h2>Learnings</h2>
 
-  <!-- Todo -->
+  In this project we learned how to use React Native very well, exploring a little more of the expo and also taking advantage of the expo router and stacks made available by EXPO, with this we gained efficiency and focused on what matters, which is the development of the product and/or features.
 
 </div>
 <div id='roadmap'>
 <h2>Roadmap</h2>
-
- <!-- TODO -->
+ - App Launch ✅ 
+ - Add Container/Presentation pattern 
+ - Add Authentication 
+ - Create Dashboard for customers
+ 
 </div>
 
 <div id='status'>
 <h2>Status</h2>
 <p>
-    <!-- <img align="left" height="100em" alt="Jim Carrey"
+    <img align="left" height="100em" alt="Jim Carrey"
       src="https://user-images.githubusercontent.com/101602651/203405592-5045955d-4107-4e6d-ba53-734873fdeb45.gif"> -->
-      <!-- TODO -->
     <div align="left">
       <br/>
-      <i>      Este é um Projeto Mobile e continua em construção!</i>
+      <i>This is a Mobile Project and is still under construction!</i>
     </div>
 </p>
 </div>
@@ -102,7 +101,7 @@ Para fazer um pedido iremos utilizar o aplicativo.
 
 <div id='contatos' align="center">
 
-<h2>Entre em contato comigo!</h2>
+<h2>Contact me!</h2>
   <a href = "mailto:gabriel.developer2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel--jesus/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
